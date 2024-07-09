@@ -1,0 +1,33 @@
+img{
+    width: 1510px;
+    height: 500px;
+}
+.one>img{
+    width: 100px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    margin:auto;    
+}
+ h1{
+    display: flex;
+    justify-content: center;
+    margin: auto;  
+    color: rgba(0, 0, 255, 0.679);
+} 
+
+iframe{
+    display: flex;
+    justify-content: center;
+    margin: auto;  
+
+}
+.two>p{
+margin-left: 100px;
+}
+.main{
+    /* margin-left: 30px; */
+    padding: 0px 40px 50px 60px;
+}
+   
+
